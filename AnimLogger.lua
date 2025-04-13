@@ -1,4 +1,3 @@
--- This script was protected using the MoonVeil Obfuscator v1.0.4 [https://moonveil.cc]
 
 local function Y(Ra,Q)
     local Za,u,la,wa,z,ma,p,Aa
